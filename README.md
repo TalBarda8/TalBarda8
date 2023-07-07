@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Tal Barda.
+---
+
+I'm a computer science graduate and software developer with a great passion for code. 
+
+I'm also an indie game developer using the Unity engine, having self-studied it for 3D and VR. You are welcome to see my game projects on my itch.io profile - https://talbarda.itch.io/
+
 
 <!--
 **TalBarda8/TalBarda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
