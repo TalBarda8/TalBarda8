@@ -3,7 +3,7 @@
 
 I'm a computer science graduate and software developer with a great passion for code. 
 
-I'm also an indie game developer using the Unity engine, having self-studied it for 3D and VR. You are welcome to see my game projects on my itch.io profile - https://talbarda.itch.io/
+I'm also an indie game developer using Unity engine, having self-studied it for 3D and VR. You are welcome to see my game projects on my itch.io profile - https://talbarda.itch.io/
 
 ---
 ### 🧰 Toolbox
